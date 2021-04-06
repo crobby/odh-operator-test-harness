@@ -1,0 +1,1 @@
+ODS_NAMESPACE=redhat-ods-applications
